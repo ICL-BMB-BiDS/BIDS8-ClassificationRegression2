@@ -1,4 +1,7 @@
 # Classification and Regression 2
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ICL-BMB-BiDS/BIDS8-ClassificationRegression2/blob/main/BIDS_08_ClassificationRegression_2.ipynb/)
+
 This session revolves around what kernels are, why they are used in supervised learning, and how they are used with Support Vector Machines (SVMs) for classification (SVC) and regression (SVR).
 
 Some help with getting the feature importance of a non-linear SVM: https://stackoverflow.com/a/67910281
